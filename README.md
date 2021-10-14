@@ -1,4 +1,4 @@
-### Design Pattern Study
+# Design Pattern Study
 
 ## 스터디 진행 방식
 1. 매 주 진행할 패턴에 대한 발표 및 각자 준비한 예제 소개

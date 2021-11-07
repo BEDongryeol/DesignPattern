@@ -19,7 +19,7 @@
 
 3주차 : Strategy
 
-4주차 : Decorator
+4주차 : [Decorator](https://github.com/BEDongryeol/DesignPattern/blob/main/Decorator/Decorator.md)
 
 5주차 : State
 

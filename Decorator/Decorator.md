@@ -122,3 +122,11 @@ public class CoffeeTest {
 }
 ```
 </details>
+
+> ## ISSUE
+
+Decorator 패턴을 구현하면서 `abstract class`와 `interface`로 구현하는데에 어떤 차이점이 있을 지 비교해보았다.
+
+결론부터 말하면 `abstract class`로 Decorator를 생성하여야한다.
+
+이유는 interface로 생성하면 `concrete decorator`를 구현해 줄 때 매 번 집합 관계를 형성해 주어야 하지만, abstract class로 생성하면 super를 통해 불러올 수 있다. 

@@ -21,7 +21,7 @@
 
 4주차 : [Decorator](https://github.com/BEDongryeol/DesignPattern/blob/main/Decorator/Decorator.md)
 
-5주차 : State
+5주차 : [State](https://github.com/BEDongryeol/DesignPattern/blob/main/State/State.md)
 
 6주차 : Template Method
 

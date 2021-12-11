@@ -62,5 +62,5 @@ Application에 1개 이상의 DB를 연결할 때, 동적으로 필요한 DB Con
 
 
 
-참고 : ![Reactive Programming](https://reactiveprogramming.io/blog/en/design-patterns/factory-method)
+참고 : [Reactive Programming](https://reactiveprogramming.io/blog/en/design-patterns/factory-method)
 

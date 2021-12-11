@@ -25,7 +25,7 @@
 
 6주차 : [Template Method](https://github.com/BEDongryeol/DesignPattern/blob/main/TemplateMethod/TemplateMethod.md)
 
-7주차 : Factory Method
+7주차 : [Factory Method](https://github.com/BEDongryeol/DesignPattern/blob/main/FactoryMethod/FactoryMethodPattern.md)
 
 8주차 : Proxy
 

@@ -23,7 +23,7 @@
 
 5주차 : [State](https://github.com/BEDongryeol/DesignPattern/blob/main/State/State.md)
 
-6주차 : Template Method
+6주차 : [Template Method](https://github.com/BEDongryeol/DesignPattern/blob/main/TemplateMethod/TemplateMethod.md)
 
 7주차 : Factory Method
 

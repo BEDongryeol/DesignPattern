@@ -27,5 +27,5 @@
 
 7주차 : [Factory Method](https://github.com/BEDongryeol/DesignPattern/blob/main/FactoryMethod/FactoryMethodPattern.md)
 
-8주차 : Proxy
+8주차 : [Proxy](https://github.com/BEDongryeol/DesignPattern/blob/main/Proxy/ProxyPattern.md)
 
